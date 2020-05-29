@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Img">
+        <file>Map.jpg</file>
+        <file>Base.png</file>
+        <file>BigerBase.png</file>
+        <file>baseTsodInf.png</file>
+    </qresource>
+</RCC>

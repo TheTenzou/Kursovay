@@ -350,10 +350,7 @@ Dna crosingover(Dna dna1, Dna dna2) {
         }
         currentPart++;
     }
-    // old selection
-    //for (int i = newDna.size() / 2; i < newDna.size(); ++i) {
-    //	newDna[i] = dna2[i];
-    //}
+
     return newDna;
 }
 
